@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **jvgalvao14/jvgalvao14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
