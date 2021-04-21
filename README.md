@@ -5,7 +5,6 @@
 
 [![Linkedin: Joao Vitor](https://img.shields.io/badge/-joaovitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvgalvao/)](https://www.linkedin.com/in/jvgalvao/)
 
-[![GitHub Followers](https://img.shields.io/github/followers/jvgalvao14?label=follow&style=social)](https://github.com/jvgalvao14)
 
 
 ### <img src="https://media.giphy.com/media/iNphtOxComEMFqedWw/giphy.gif" width="50"> A bit more about me...  
