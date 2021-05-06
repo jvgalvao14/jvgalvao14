@@ -13,7 +13,7 @@
 const joaoVitor = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node],
+  tools: [React, Redux, Node, MongoDB],
 }
 ```
 
