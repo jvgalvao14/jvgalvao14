@@ -3,9 +3,10 @@
 <p><em>Graduating in Computer Science</br>Currently learning Back end development using NodeJS with JavaScript and TypeScript!
 </em></p>
 
-[![Linkedin: Joao Vitor](https://img.shields.io/badge/-joaovitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvgalvao/)](https://www.linkedin.com/in/jvgalvao/)
-
-
+<div> 
+  <a href = "mailto:jv.galvao14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jvgalvao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ### <img src="https://media.giphy.com/media/iNphtOxComEMFqedWw/giphy.gif" width="50"> A bit more about me...  
 
@@ -13,9 +14,13 @@
 const joaoVitor = {
   pronouns: "he" | "him",
   code: [Javascript, TypeScript],
-  tools: [NodeJS, Express, MongoDB],
+  tools: [NodeJS, Express, MongoDB, Bootstrap],
+  favoriteBands: [Thee Oh Sees, King Gizzard]
 }
 ```
 
+  
+  ##
+ 
 
 --
