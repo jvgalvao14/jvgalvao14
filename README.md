@@ -1,4 +1,4 @@
-<h2> Hi, I'm João! <img src="https://media.giphy.com/media/1fj8441ZGHV2FSc6pe/giphy.gif" width="50"></h2>
+<h2> Hello, I'm João! <img src="https://media.giphy.com/media/1fj8441ZGHV2FSc6pe/giphy.gif" width="50"></h2>
 <!-- <img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230"> -->
 <p><em>Graduating in Computer Science</br>Currently learning Back end development using NodeJS with JavaScript and TypeScript!
 </em></p>
