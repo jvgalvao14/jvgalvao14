@@ -18,9 +18,3 @@ const joaoVitor = {
   favoriteBands: [TheeOhSees, KingGizzard]
 }
 ```
-
-  
-  ##
- 
-
---
