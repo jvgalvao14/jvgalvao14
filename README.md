@@ -13,8 +13,8 @@
 ```javascript
 const joaoVitor = {
   pronouns: "he" | "him",
-  code: [Javascript, TypeScript, Ruby],
-  tools: [NodeJS, Express, RubyonRails, MongoDB, Docker],
+  code: [Javascript, TypeScript],
+  tools: [NodeJS, Express, MongoDB, Docker],
   favoriteBands: [TheeOhSees, KingGizzard]
 }
 ```
