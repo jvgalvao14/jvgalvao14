@@ -14,7 +14,7 @@
 const joaoVitor = {
   pronouns: "he" | "him",
   code: [Javascript, TypeScript],
-  tools: [NodeJS, Express, MongoDB, Docker],
+  tools: [NodeJS, Angular, MongoDB],
   favoriteBands: [TheeOhSees, KingGizzard]
 }
 ```
